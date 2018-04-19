@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DiscoveryClientResultsFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Results>
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.DiscoveryDocumentReference" url="http://server.xhdcrm.com/server/XHD_Server.asmx?disco" filename="XHD_Server.disco" />
+    <DiscoveryClientResult referenceType="System.Web.Services.Discovery.ContractReference" url="http://server.xhdcrm.com/server/XHD_Server.asmx?wsdl" filename="XHD_Server.wsdl" />
+  </Results>
+</DiscoveryClientResultsFile>

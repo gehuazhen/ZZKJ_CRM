@@ -1,0 +1,28 @@
+2018/4/19 14:59:27 > System.Web.HttpException (0x80004005): “D:/架构/XHDCRM2/XHDCRM2/View/conn.config”是物理路径，但应为虚拟路径。
+   在 System.Web.Util.UrlPath.CheckValidVirtualPath(String path)
+   在 System.Web.Util.UrlPath.Combine(String appPath, String basepath, String relative)
+   在 System.Web.VirtualPath.Combine(VirtualPath relativePath)
+   在 System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   在 System.Web.HttpServerUtility.MapPath(String path)
+   在 XHD.Server.install.CheckConfig(String webconfigfile) 位置 D:\架构\XHDCRM2\XHDCRM2\Server\install.cs:行号 181
+2018/4/19 14:59:27 > System.Web.HttpException (0x80004005): “D:/架构/XHDCRM2/XHDCRM2/View/Web.config”是物理路径，但应为虚拟路径。
+   在 System.Web.Util.UrlPath.CheckValidVirtualPath(String path)
+   在 System.Web.Util.UrlPath.Combine(String appPath, String basepath, String relative)
+   在 System.Web.VirtualPath.Combine(VirtualPath relativePath)
+   在 System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   在 System.Web.HttpServerUtility.MapPath(String path)
+   在 XHD.Server.install.CheckConfig(String webconfigfile) 位置 D:\架构\XHDCRM2\XHDCRM2\Server\install.cs:行号 181
+2018/4/19 15:08:30 > System.Web.HttpException (0x80004005): “D:/架构/XHDCRM2/XHDCRM2/View/conn.config”是物理路径，但应为虚拟路径。
+   在 System.Web.Util.UrlPath.CheckValidVirtualPath(String path)
+   在 System.Web.Util.UrlPath.Combine(String appPath, String basepath, String relative)
+   在 System.Web.VirtualPath.Combine(VirtualPath relativePath)
+   在 System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   在 System.Web.HttpServerUtility.MapPath(String path)
+   在 XHD.Server.install.CheckConfig(String webconfigfile) 位置 D:\架构\XHDCRM2\XHDCRM2\Server\install.cs:行号 181
+2018/4/19 15:08:30 > System.Web.HttpException (0x80004005): “D:/架构/XHDCRM2/XHDCRM2/View/Web.config”是物理路径，但应为虚拟路径。
+   在 System.Web.Util.UrlPath.CheckValidVirtualPath(String path)
+   在 System.Web.Util.UrlPath.Combine(String appPath, String basepath, String relative)
+   在 System.Web.VirtualPath.Combine(VirtualPath relativePath)
+   在 System.Web.HttpRequest.MapPath(VirtualPath virtualPath, VirtualPath baseVirtualDir, Boolean allowCrossAppMapping)
+   在 System.Web.HttpServerUtility.MapPath(String path)
+   在 XHD.Server.install.CheckConfig(String webconfigfile) 位置 D:\架构\XHDCRM2\XHDCRM2\Server\install.cs:行号 181
